@@ -27,6 +27,11 @@ li {
   margin: 20px auto;
   max-width: 600px;
 }
+
+.container {
+  max-width: 600px;
+}
+
 .temperature {
   color: rgb(33, 33, 33);
   font-size: 64px;
@@ -55,9 +60,9 @@ a {
 .active:hover {
   text-decoration: none;
 }
-a {
+/* a {
   margin-left: 50px;
-}
+} */
 
 .weather-forcast {
   margin-top: 20x;
